@@ -1,28 +1,35 @@
-# Welcome at DataNature!
-##Linux / Mac User
-###Step 1
-You have to download the "install.sh" file from here
-###Step 2
-Navigate to the location where the file is saved
-###Step 3
-Now open a terminal at this location
-###Step 4
-Paste this code into the terminal and hit Enter
+# Welcome to DataNature!
+
+DataNature is a free online platform with the aim of providing education in machine learning, data mining, and deep learning. The online platform was created through a collaborative effort by volunteers from around the globe!
+
+## Getting Started
+### Linux / Mac Users
+-	Download the "install.sh" file located within this repository 
+
+-	Navigate to the location where the file is saved and open your terminal at this location
+
+-	Copy and paste the following code into your terminal, then hit Enter
+
 ```
 chmod +x install.sh
 ```
 
-And now install everything with this code
+- Finally, install pip and the python data modules by typing the following code into your terminal
+
 ```
 ./install.sh
 ```
 
-
-##Windows User
-###Step 1
-Download the installer.exe
-###Step 2
-Follow the instructions
+###Windows Users
+-	Download the installer.exe
+-	Follow the instructions provided by the installer
 
 Don't understand all those steps? Watch the video here!
 [Link coming soon]
+
+## Contributing
+Contributions of all forms are greatly appreciated! 
+-	If you found a bug, [open an issue](https://github.com/DataNature/Getting-Started/issues)
+-	If you have a suggestion, [open an issue](https://github.com/DataNature/Getting-Started/issues)
+-	If you need help, [open an issue](https://github.com/DataNature/Getting-Started/issues)
+If you are interested in contributing, please create a pull request or view any open issue in the issues tab located [here](https://github.com/DataNature/Getting-Started/issues)
